@@ -2,4 +2,12 @@
 p {
     text-align: center;
   }
-  
+body {
+background: linear-gradient(rgb(66, 66, 255), rgb(255, 255, 255), rgb(255, 0, 0));
+background-repeat: no-repeat;
+background-size: cover;
+
+
+
+
+}
